@@ -12,6 +12,3 @@ Climate Change. But I'm also [inspired by](http://worrydream.com/ClimateChange)
 [its challenge](http://tnp_encoded_videos.s3.amazonaws.com/web_videos/140927_FONG_FULL_WEB_9100.mp4).
 I want to focus my passion for problem solving onto tackling the climate crisis:
 energy, the grid, transportation, politics—whatever it takes.
-
----
-My Resume can be found at: [this page]({% link resume.html %}).
