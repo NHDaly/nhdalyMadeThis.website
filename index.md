@@ -1,6 +1,5 @@
 ---
 layout: title
-title: Home
 ---
 
 Hi! I'm Nathan Daly, a software engineer, and sometimes an actor, living in Chicago. I'm
