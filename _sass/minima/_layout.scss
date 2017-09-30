@@ -149,6 +149,26 @@
   width:         calc(45% - (#{$spacing-unit} / 2));
 }
 
+.footer-bottom {
+  float: left;
+  font-size: 0.875rem;
+}
+
+section {
+  border-top: 2px solid #ecf0f1;
+  padding-top: 5px;
+  margin-top: 30px;
+}
+
+hr {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 0px;
+  color: #ecf0f1;
+  border-style: solid;
+  border-color: #ecf0f1;
+}
+
 @include media-query($on-laptop) {
   .footer-col-1,
   .footer-col-2 {
