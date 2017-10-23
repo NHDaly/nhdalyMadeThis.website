@@ -15,14 +15,17 @@ energy, the grid, transportation, politics—whatever it takes.
 ## Current Interests
 **Julia lang**  {% include icon-julia-logo-three-balls.html %} I'm super excited about the future of the [Julia Language](https://julialang.org)! I attended [JuliaCon 2017](http://juliacon.org/2017/) in Berkeley, and am looking forward to [JuliaCon 2018](http://juliacon.org/2018/) in London!
 
-It was actually Brett Victor's Climate Change essay I linked above,
-[worrydream.com/ClimateChange](worrydream.com/ClimateChange), that first
-introduced me to Julia and motivated me to contribute!
+It was actually the essay I linked above,
+[worrydream.com/ClimateChange](worrydream.com/ClimateChange) by Brett Victor,
+that first introduced me to Julia and motivated me to contribute! Since then,
+I've found an incredibly inviting and intelligent community, and an exciting
+language for numerical computing, machine learning, and more!
 
 <blockquote class="twitter-tweet" align="center" width="500" data-lang="en"><p lang="en" dir="ltr">Literally this is how I heard about <a href="https://twitter.com/hashtag/julialang?src=hash&amp;ref_src=twsrc%5Etfw">#julialang</a> &amp; why I started contributing! Thanks <a href="https://twitter.com/worrydream?ref_src=twsrc%5Etfw">@worrydream</a> for introducing me to this exciting world! 😄</p>&mdash; Nathan Daly (@nhdaly) <a href="https://twitter.com/nhdaly/status/911362142569418753?ref_src=twsrc%5Etfw">September 22, 2017</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br>
 **Mandarin language (汉语)** I've been studying Mandarin Chinese for ~7 years now.
-I would say I'm conversational. Learning any language is a big commitment, but
-I love the challenge and the chance to learn more about Chinese culture!
+I would say I'm conversational. Learning any language is a big commitment, but I
+love the challenge and the chance to learn more about Chinese culture! For other
+learners out there, I really love the audio lessons on [chinesepod.com](http://chinesepod.com)!
