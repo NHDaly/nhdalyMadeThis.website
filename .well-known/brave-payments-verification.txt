@@ -1,0 +1,4 @@
+This is a Brave Payments publisher verification file.
+
+Domain: nhdaly.github.io
+Token: 6861bb8cbb5a6e2850daeb586f43ba2f3d14f1623b51ac2d7a02e81e34c06f96
