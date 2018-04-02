@@ -46,7 +46,11 @@
     </div>
 
     <div class="footer-bottom">
-      <p>© 2017 Nathan Daly</p>
+      {% if page.title contains "nhdalyMadeThis" %}
+        <p>© 2018 <i>nhdalyMadeThis, LLC</i></p>
+      {% else %}
+        <p>© 2017-2018 Nathan Daly</p>
+      {% endif %}
     </div>
   </div>
 
