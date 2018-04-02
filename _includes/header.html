@@ -4,9 +4,10 @@
     {% assign sorted_pages = site.pages | sort:"order" %}
     {% assign default_paths = sorted_pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
+    <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
 
     {% if page_paths %}
-      <nav class="title-site-nav">
+      <nav class="site-nav">
         <input type="checkbox" id="nav-trigger" class="nav-trigger" />
         <label for="nav-trigger">
           <span class="menu-icon">

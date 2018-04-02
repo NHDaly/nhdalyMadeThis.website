@@ -1,6 +1,7 @@
 ---
 layout: title
 title: Home
+order: 1
 ---
 
 Hi! I'm Nathan Daly, a software engineer, and sometimes an actor, living in Chicago. I'm
@@ -30,3 +31,5 @@ language for numerical computing, machine learning, and more!
 I would say I'm conversational. Learning any language is a big commitment, but I
 love the challenge and the chance to learn more about Chinese culture! For other
 learners out there, I really love the audio lessons on [chinesepod.com](http://chinesepod.com)!
+
+**Making Games** I'm making games! Check out my games page: [nhdalyMadeThis](/MadeThis.html)
