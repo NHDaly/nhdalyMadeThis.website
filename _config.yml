@@ -19,7 +19,7 @@ email: nhdaly@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   software engineer, actor, big-time Avatar the Last Airbender fan
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "nhdaly.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "nhdalyMadeThis.website" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: nhdaly
 github_username:  nhdaly
 stackoverflow_userid: 751061
