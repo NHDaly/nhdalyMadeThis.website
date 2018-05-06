@@ -13,6 +13,18 @@ My first product is a simple game written entirely in [Julia{% include icon-juli
 
 I would love you to fork it and change it and sell what you create!
 
-*Download the game here: [Paddle-Battle.dmg](https://github.com/NHDaly/PaddleBattleJL/releases/download/v1.0.2/Paddle-Battle.dmg)*
+*Download the game here: <a class="download" href="https://github.com/NHDaly/PaddleBattleJL/releases/latest">Paddle-Battle.dmg</a>*
 
 ![clip from Paddle Battle]({{ "assets/images/Paddle-Battle-Clip.gif" }}){:width="300px"}
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script>
+function GetLatestReleaseInfo() {
+  $.getJSON("https://api.github.com/repos/NHDaly/PaddleBattleJL/releases/latest").done(function(release) {
+    var asset = release.assets[0];
+    $(".download").attr("href", asset.browser_download_url);
+  });
+}
+
+GetLatestReleaseInfo();
+</script>
