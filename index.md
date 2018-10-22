@@ -32,3 +32,18 @@ ajaxRequest.onreadystatechange = function(){
 ajaxRequest.open('GET', 'https://api.github.com/repos/NHDaly/PaddleBattleJL/releases/latest');
 ajaxRequest.send();
 </script>
+
+
+<a name="LiveIDE"></a>
+## LiveIDE
+I've been building a tool for live-debugging and editing julia code! It's
+inspired by Bret Victor's 2012 [Inventing on
+Principle](https://vimeo.com/36579366) talk. That talk also inspired similar
+tools, like [Hydrogen](https://github.com/nteract/hydrogen), the jupyter
+notebook integration for the [Atom](https://github.com/atom/atom) code editor.
+
+I've been working on it for about a month. I'm currently calling it _LiveIDE_,
+but the name is a work-in-progress.
+
+LiveIDE is Copyright © 2018 nhdalyMadeThis, LLC
+All rights reserved.
