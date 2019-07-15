@@ -6,7 +6,7 @@ order: 4
 ---
 
 Hi! For app support, please contact me any time at:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;`nhdaly@nhdalyMadeThis.website`
+&nbsp;&nbsp;&nbsp;&nbsp;`nhdaly@nhdalyMadeThis.com`
 
 I will be sure to get back to you ASAP!
 
