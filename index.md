@@ -10,11 +10,11 @@ I make games under the game developer company _nhdalyMadeThis, LLC_.
 <a name="Paddle-Battle"></a>
 ## Paddle Battle [![icon]({{ "assets/images/Paddle-Battle-Icon.png" }}){:width="50px"}](#Paddle-Battle)
 My first product is a simple game written entirely in [Julia{% include icon-julia-logo-three-balls.html %}](https://github.com/JuliaLang/julia), intended as an example of creating and publishing a game from scratch with Julia. The code for the project is available here under the MIT license:<br>
-[https://github.com/NHDaly/PaddleBattleJL](https://github.com/NHDaly/PaddleBattleJL)
+[https://github.com/NHDaly/PaddleBattle.jl](https://github.com/NHDaly/PaddleBattle.jl)
 
 I would love you to fork it and change it and sell what you create!
 
-*Download the game here: <a id="paddleBattleDownload" href="https://github.com/NHDaly/PaddleBattleJL/releases/latest">Paddle-Battle.dmg</a>*
+*Download the game here: <a id="paddleBattleDownload" href="https://github.com/NHDaly/PaddleBattle.jl/releases/latest">Paddle-Battle.dmg</a>*
 
 ![clip from Paddle Battle]({{ "assets/images/Paddle-Battle-Clip.gif" }}){:width="300px"}
 
@@ -29,7 +29,7 @@ ajaxRequest.onreadystatechange = function(){
     document.getElementById("paddleBattleDownload").href = asset.browser_download_url;
   }
 }
-ajaxRequest.open('GET', 'https://api.github.com/repos/NHDaly/PaddleBattleJL/releases/latest');
+ajaxRequest.open('GET', 'https://api.github.com/repos/NHDaly/PaddleBattle.jl/releases/latest');
 ajaxRequest.send();
 </script>
 
